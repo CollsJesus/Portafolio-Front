@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background: radial-gradient(circle, #9b9a9c, #202020);
+}
+
+.logoAp img {
+    width: 150px;
+    height: 100px;
+}
+
+.socialNetworks img{
+    margin-top: 25px;
+    padding: 3px;
+}
+
+.banner img{
+    width: 100%;
+    height: 400px;
+    z-index: 10;
+}
