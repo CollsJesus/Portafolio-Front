@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+    color: #fff;
+ }
+
+.row {
+    padding: 10px;
+    background: rgb(21,25,50);
+    background: radial-gradient(circle, rgba(21,25,50,0.9528186274509804) 17%, rgba(39,82,182,0.9136029411764706) 62%, rgba(65,63,91,1) 99%);
+}
+
+#name {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#career {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
