@@ -22,5 +22,6 @@
 img {
     width: 230px;
     height: 230px;
-    border-radius: 50%;
+    border-radius: 20%;
+    border: #000 solid;
 }
